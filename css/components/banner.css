@@ -1,0 +1,16 @@
+.banner {
+  background-image: url('../../images/background.png')
+}
+
+.header {
+  color: #ffffff;
+  padding: 10% ;
+  font-size: 35px;
+  text-shadow: 1px 1px 1px;
+}
+
+.header p {
+  margin-bottom: 50px;
+  color: gray;
+  font-size: 30px;
+}
